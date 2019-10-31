@@ -1,4 +1,4 @@
-# cashbox-demo
+# cregital-search
 
 ## Project setup
 ```
